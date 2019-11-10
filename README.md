@@ -1,5 +1,5 @@
 # Title
-Chris Barcala's Portfolio - Homework Assignment 2
+Chris Barcala's Portfolio
 
 # About
 This site is to showcase my work as a Developer. The Site uses the Bootrap CSS Framework along with Media Queries for 640px, 768px, and 980px.
@@ -10,12 +10,13 @@ chrisbarcala@gmail.com
 github: cbarcala23
 
 # Link to Site
-https://cbarcala23.github.io/
+https://cbarcala23.github.io/portfolioupdate/
 
 # Style Sheet
 "assets/css/style.css"
 
 # Screenshots
-<img width="529" alt="640" src="https://user-images.githubusercontent.com/54015205/65826688-5eedc000-e23e-11e9-9e51-2ce4261e0dc6.png">
-<img width="640" alt="768" src="https://user-images.githubusercontent.com/54015205/65826690-60b78380-e23e-11e9-893c-bc0f77ab0921.png">
-<img width="832" alt="980" src="https://user-images.githubusercontent.com/54015205/65826691-62814700-e23e-11e9-84e9-182df53d1229.png">
+<img width="1078" alt="Screen Shot 2019-11-09 at 8 56 08 PM" src="https://user-images.githubusercontent.com/54015205/68539125-789d1f80-0333-11ea-9d62-d93356c0b4f1.png">
+
+<img width="1072" alt="Screen Shot 2019-11-09 at 8 56 22 PM" src="https://user-images.githubusercontent.com/54015205/68539128-82bf1e00-0333-11ea-82f2-2edb5100abbc.png">
+
