@@ -95,7 +95,7 @@ body {
 }
 .content {
     position: relative;
-    background: #222222;
+    background: #343a40;
     text-align: center;
     color: #ffffff;
     padding-top: 40px;
@@ -110,7 +110,7 @@ input[type=text] {
 }
 
 input[type=submit] {
-    background-color: #4aaaa5;
+    background-color: #343a40;
     color: white;
     padding: 8px 20px;
     border: none;
