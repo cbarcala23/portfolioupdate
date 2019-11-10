@@ -67,6 +67,11 @@ body {
     font-size: 30px;
 }
 /*CONTENT AREA*/
+
+.card {
+    margin-bottom: 50px;
+}
+
 .wrapper {
     height: 100%;
     background: #ffffff;
@@ -90,15 +95,14 @@ body {
 }
 
 .footer {
-    flex-shrink: 0;
     position: fixed;
-}
-.content {
-    position: relative;
     background: #343a40;
     text-align: center;
     color: #ffffff;
     padding-top: 40px;
+    left: 0;
+    bottom: 0;
+    width: 100%;
 }
 /*FORMS*/
 input[type=text] {
