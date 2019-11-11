@@ -5,8 +5,6 @@ html, body {
 
 body {
     margin: 0%;
-    /*display: flex;
-    flex-direction: column;*/
 }
 /*NAV SECTION*/
 
@@ -68,7 +66,7 @@ body {
 }
 /*CONTENT AREA*/
 
-.card {
+.card-deck {
     margin-bottom: 50px;
 }
 
