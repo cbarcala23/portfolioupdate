@@ -72,6 +72,7 @@ body {
     margin-bottom: 50px;
 }
 
+
 .wrapper {
     height: 100%;
     background: #ffffff;
@@ -183,6 +184,9 @@ input[type=submit] {
         padding-top: 28px;
         font-size: 18px;
     }
+    .card-body {
+        height: auto;
+    }
 }
 
 @media screen and (min-width: 641px) and (max-width: 768px) {
@@ -220,6 +224,9 @@ input[type=submit] {
         width: auto;
         height: 100%;
     }
+    .card-body {
+        height: auto;
+    }
 
 }
 
@@ -235,7 +242,7 @@ input[type=submit] {
     }
     .wrapper {
         height: auto;
-        width: 600px;
+        width: auto;
         margin: 20px 0px 20px 0px;
     }
     #floatimage {
@@ -250,6 +257,9 @@ input[type=submit] {
     .galleryimg {
         width: auto;
         height: 100%;
+    }
+    .card-body {
+        height: 500px;
     }
 }
 
